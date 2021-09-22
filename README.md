@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajvardhan-1
 - 👀 I’m interested in game developement
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on rockstar games
+- 💞️ I’m looking to collaborate with rockstar games
 - 📫 How to reach me https://www.hackerearth.com/@raj1820
 
 <!---
